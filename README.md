@@ -56,9 +56,13 @@ Comprobar si un número es par o impar
 Salir del programa
 
 Elige una opcion del menu (1-4): 2
+
 - Adivina el número entre 1 y 20: 10
+
 Mas alto
+
 - Adivina el número entre 1 y 20: 15
+
 !Has Ganado¡
 
 ---
