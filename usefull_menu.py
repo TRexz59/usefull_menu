@@ -2,6 +2,7 @@
 
 while True:                                                                         # Bucle infinito para el menu
     try:
+        print("")
         print("\t--- MENU DE OPCIONES ---")
         print("""
     1. Conversor de Euros a USD
